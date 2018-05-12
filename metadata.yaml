@@ -1,10 +1,16 @@
 _repo: Representative-Women-of-Deseret-A-Book-of-Biographical-Sketches_50958
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50958-h/images/cover.jpg
 creator:
   author:
     agent_name: Crocheron, Augusta Joyce
     gutenberg_agent_id: '46165'
     url: http://www.gutenberg.org/2009/agents/46165
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50958#Representative-Women-of-Deseret-A-Book-of-Biographical-Sketches
 gutenberg_issued: '2016-01-18'
 gutenberg_type: Text
 identifiers:
